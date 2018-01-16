@@ -6,5 +6,4 @@ package com.example.yulinfeng.yu;
  */
 
 public class othe {
-
 }
