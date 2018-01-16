@@ -5,4 +5,5 @@ package com.example.yulinfeng.yu;
  */
 
 public class othe {
+    int one=0;
 }
